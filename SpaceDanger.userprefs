@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Score.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Inimigo.cs" Line="35" Column="30" />
+      <File FileName="Assets\Scripts\Tiro.cs" Line="25" Column="4" />
+      <File FileName="Assets\Scripts\CodeArmas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AtaqueInimigo.cs" Line="31" Column="45" />
+      <File FileName="Assets\Scripts\ViewEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveCenario.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjetosCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EntrarNoJogo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EfeitoSonoro.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VerificaDano.cs" Line="20" Column="32" />
+      <File FileName="Assets\Scripts\Score.cs" Line="25" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceDanger" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Score.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

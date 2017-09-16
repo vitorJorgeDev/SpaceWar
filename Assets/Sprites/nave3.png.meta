@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: d882c8d8e63de4401b69b71d7a76965d
+timeCreated: 1505446242
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nave3_0
+    21300002: nave3_1
+    21300004: nave3_2
+    21300006: nave3_3
+    21300008: nave3_4
+    21300010: nave3_5
+    21300012: nave3_6
+    21300014: nave3_7
+    21300016: nave3_8
+    21300018: nave3_9
+    21300020: nave3_10
+    21300022: nave3_11
+    21300024: nave3_12
+    21300026: nave3_13
+    21300028: nave3_14
+    21300030: nave3_15
+    21300032: nave3_16
+    21300034: nave3_17
+    21300036: nave3_18
+    21300038: nave3_19
+    21300040: nave3_20
+    21300042: nave3_21
+    21300044: nave3_22
+    21300046: nave3_23
+    21300048: nave3_24
+    21300050: nave3_25
+    21300052: nave3_26
+    21300054: nave3_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nave3_0
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3496
+        width: 1894
+        height: 1896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_1
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 4995
+        width: 641
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_2
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 4995
+        width: 469
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_3
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 4503
+        width: 784
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_4
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 4039
+        width: 539
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_5
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 4074
+        width: 1030
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_6
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 3502
+        width: 128
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_7
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 3500
+        width: 118
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_8
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3513
+        width: 145
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_9
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 3500
+        width: 134
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_10
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 3502
+        width: 139
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_11
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 3497
+        width: 139
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_12
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 3486
+        width: 150
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_13
+      rect:
+        serializedVersion: 2
+        x: 4742
+        y: 3499
+        width: 123
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_14
+      rect:
+        serializedVersion: 2
+        x: 4917
+        y: 3486
+        width: 125
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_15
+      rect:
+        serializedVersion: 2
+        x: 5091
+        y: 3503
+        width: 128
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1276
+        width: 3024
+        height: 2017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_17
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 2676
+        width: 490
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_18
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 2746
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_19
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2231
+        width: 405
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_20
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 2193
+        width: 405
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_21
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 2193
+        width: 406
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_22
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1552
+        width: 514
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 707
+        width: 3033
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_24
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 1066
+        width: 322
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_25
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 75
+        width: 1142
+        height: 1246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_26
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 718
+        width: 381
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nave3_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 3029
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
